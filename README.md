@@ -5,3 +5,4 @@ step2: run the exe file
 step3: once the menu is open click register 
 
 make an account and its gg
+please leave a star
